@@ -55,7 +55,7 @@ I love creating clean, scalable, and impactful digital solutions 🚀
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBA-FATIMA&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=AREEBA-FATIMA&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AREEBA-FATIMA&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBA-FATIMA&layout=compact&theme=radical&hide_border=true)
 
