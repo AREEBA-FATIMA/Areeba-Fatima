@@ -1,8 +1,19 @@
-# 👋 Hi, I'm Areeba Fatima
+<p align="center">
+  <a href="https://github.com/AREEBA-FATIMA">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajExazJoa2R3NGFreHhrNXR6ZjZhajNqMWF0aW45bmFoOG1hNmFidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8WjZl0hSfLHox0Prn/giphy.gif"
+         alt="Coding Developer Animation"
+         style="width: 350px; height: 250px;">
+  </a>
+</p>
 
-Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** passionate about building modern web applications using **Django + Next.js**, and currently exploring **Agentic AI**.  
-I love creating clean, scalable, and impactful digital solutions 🚀
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Areeba Fatima</h1>
+<h3 align="center">Full Stack Developer | Django + Next.js | Agentic AI Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/AREEBA-FATIMA">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Django+%2B+Next.js;Agentic+AI+Explorer;Always+Learning+New+Things&font=Fira%20Code&center=true&width=500&height=45&color=9F2B68&vCenter=true&size=22">
+  </a>
+</p>
 
 ---
 
@@ -59,10 +70,8 @@ I love creating clean, scalable, and impactful digital solutions 🚀
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBA-FATIMA&layout=compact&theme=radical&hide_border=true)
 
-
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-FATIMA&theme=redical&hide_border=true)
-
 
 ---
 
@@ -70,8 +79,13 @@ I love creating clean, scalable, and impactful digital solutions 🚀
 
 - 📮 **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areebafatima)  
-- 🧠 **Portfolio:** [areeba-fatima](https://areeba-fatima.vercel.app)
+- 🧠 **Portfolio:** [areeba-fatima](https://areeba-fatima.vercel.app)  
 - 🐙 **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
+
+---
+
+## 🐍 Snake Animation
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
