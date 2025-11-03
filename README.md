@@ -76,7 +76,7 @@
 ## 📬 Let's Connect
 
 - 📮 **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areebafatima)  
+- 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areeba-fatima-ali)  
 - 🧠 **Portfolio:** [areeba-fatima.vercel.app](https://areeba-fatima.vercel.app)  
 - 🐙 **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
 
