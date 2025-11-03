@@ -2,7 +2,7 @@
   <a href="https://github.com/AREEBA-FATIMA">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxNjdpODllcjN3MGc3czZ1cmk5eDNjd2wwNXR3cDh4dzJ1ODY0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif"
          alt="Coding Developer Animation"
-         style="width: 350px; height: 250px;">
+         style="width: 350px; height: 300px;">
   </a>
 </p>
 
