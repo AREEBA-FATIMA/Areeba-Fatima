@@ -63,7 +63,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBA-FATIMA&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBA-FATIMA&show_icons=true&theme=radical&hide_border=true&hide_rank=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AREEBA-FATIMA&theme=radical&hide_border=true)
 
