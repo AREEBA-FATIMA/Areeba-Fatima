@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AREEBA-FATIMA">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajExazJoa2R3NGFreHhrNXR6ZjZhajNqMWF0aW45bmFoOG1hNmFidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/R8WjZl0hSfLHox0Prn/giphy.gif"
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNxNjdpODllcjN3MGc3czZ1cmk5eDNjd2wwNXR3cDh4dzJ1ODY0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rsUGLKwgSvSxmq1VrZ/giphy.gif"
          alt="Coding Developer Animation"
          style="width: 350px; height: 250px;">
   </a>
@@ -68,10 +68,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AREEBA-FATIMA&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBA-FATIMA&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://img.shields.io/badge/…)
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-FATIMA&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://img.shields.io/badge/…)
 
 ---
 
@@ -79,13 +79,8 @@
 
 - 📮 **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areebafatima)  
-- 🧠 **Portfolio:** [areeba-fatima](https://areeba-fatima.vercel.app)  
+- 🧠 **Portfolio:** [areeba-fatima.vercel.app](https://areeba-fatima.vercel.app)  
 - 🐙 **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
-
----
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
