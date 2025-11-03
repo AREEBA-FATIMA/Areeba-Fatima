@@ -53,21 +53,25 @@ I love creating clean, scalable, and impactful digital solutions 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=areebafatima&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=areebafatima&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=areebafatima&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBA-FATIMA&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=AREEBA-FATIMA&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBA-FATIMA&layout=compact&theme=radical&hide_border=true)
+
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=areebafatima&theme=redical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-FATIMA&theme=redical&hide_border=true)
+
 
 ---
 
 ## 📬 Let's Connect
 
-- 📮 **Email:** [areebafatima.dev@gmail.com](mailto:areebafatima.dev@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/areebafatima](https://www.linkedin.com/in/areebafatima)  
-- 🧠 **Portfolio:** [areebafatima.dev](https://areebafatima.dev) *(optional if you have one)*  
-- 🐙 **GitHub:** [@areebafatima](https://github.com/areebafatima)
+- 📮 **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areebafatima)  
+- 🧠 **Portfolio:** [areeba-fatima](https://areeba-fatima.vercel.app)
+- 🐙 **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
 
 ---
 
