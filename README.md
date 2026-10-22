@@ -82,7 +82,7 @@
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=areebafatima&color=blueviolet&style=flat-square)
 
 ---
