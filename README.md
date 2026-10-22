@@ -17,9 +17,9 @@
 
 ---
 
-## 💻 Skills & Tech Stack
+## Skills & Tech Stack
 
-### 🌐 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,14 +29,14 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🧠 Databases & Tools
+### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -47,21 +47,21 @@
 
 ---
 
-## 🚀 Projects & Learning Goals
+## Projects & Learning Goals
 
-### 🔨 Currently Working On
+### Currently Working On
 - Building a **School/ERP Management System** with Django REST + Next.js  
 - Designing an interactive **HR Dashboard** for ERP analytics  
 - Learning **Agentic AI & Automation Tools**  
 - Enhancing **UI/UX** through component libraries like ShadCN  
 
-### 🎯 Learning Goals
+### Learning Goals
 - Master **AI-integrated full-stack systems**  
 - Explore **cloud deployment** (Vercel, AWS)  
 - Improve **system design & scalability concepts**  
 
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AREEBA-FATIMA&show_icons=true&theme=radical&hide_border=true&hide_rank=true)
 
@@ -69,16 +69,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AREEBA-FATIMA&layout=compact&theme=radical&hide_border=true)
 
-### 📈 Contribution Graph
+### Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AREEBA-FATIMA&theme=redical&hide_border=true)
 
 
-## 📬 Let's Connect
+## Let's Connect
 
-- 📮 **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areeba-fatima-ali)  
-- 🧠 **Portfolio:** [areeba-fatima.vercel.app](https://areeba-fatima.vercel.app)  
-- 🐙 **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
+-  **Email:** [areebafatima2457@gmail.com](mailto:areebafatima2457@gmail.com)  
+-  **LinkedIn:** [linkedin.com/in/areeba-fatima-ali/](https://www.linkedin.com/in/areeba-fatima-ali)  
+-  **Portfolio:** [areeba-fatima.vercel.app](https://areeba-fatima.vercel.app)  
+-  **GitHub:** [@AREEBA-FATIMA](https://github.com/areebafatima)
 
 ---
 
@@ -87,4 +87,4 @@
 
 ---
 
-⭐️ *Thanks for stopping by! I’m always open to collaboration and new ideas — feel free to reach out 💌*
+ *Thanks for stopping by! I’m always open to collaboration and new ideas — feel free to reach out *
